@@ -44,7 +44,7 @@ This dashboard provides a comprehensive view of the credit card customers. It in
 ## Work Performed on the Dataset
 
 ### Data Collection  
-- **Customer Data:** Collected data on customer demographics, job categories, education levels, age groups, income levels, marital statuses etc .  
+- **Customer Data:** Collected data on customer demographics, job categories, education levels, age groups, income levels, marital statuses etc.  
 - **Transaction Data:** Gathered data on transaction amounts, counts, card categories, expenditure types, usage methods etc.    
 
 ### Data Cleaning  
