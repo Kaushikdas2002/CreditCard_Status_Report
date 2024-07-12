@@ -59,5 +59,15 @@ This dashboard provides a comprehensive view of the credit card customers. It in
 - **Charts and Graphs:** Used various charts and graphs to represent data in an easily understandable format.  
 - **Filters and Interactivity:** Added filters and interactive elements to allow users to drill down into specific segments and time periods.  
 
+## Outcomes
 
+### Insights Gained
+- **High Revenue Segments:** Identified high-revenue segments based on customer job, education, and card category.  
+- **Customer Behavior:** Gained insights into customer behavior and spending patterns across different segments.  
+- **Revenue Trends:** Observed seasonal trends and patterns in revenue generation.  
+
+### Business Impact
+- **Targeted Marketing:** The insights can be used to develop targeted marketing strategies for different customer segments.  
+- **Improved Customer Satisfaction:** Understanding customer preferences can help improve customer satisfaction and retention.  
+- **Optimized Resource Allocation:** Allocation of resources can be optimized based on high-performing segments and periods.  
 
